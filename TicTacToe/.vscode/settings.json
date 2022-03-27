@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp",
+        "array": "cpp",
+        "utility": "cpp",
+        "*.tcc": "cpp",
+        "cmath": "cpp",
+        "random": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "numeric": "cpp",
+        "streambuf": "cpp"
+    }
+}

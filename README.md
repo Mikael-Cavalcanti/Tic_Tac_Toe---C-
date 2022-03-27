@@ -1,3 +1,3 @@
-# Tic_Tac_Toe - C++
+# Tic_Tac_Toe - Cpp
  
 welcome the TIC TAC TOE!
